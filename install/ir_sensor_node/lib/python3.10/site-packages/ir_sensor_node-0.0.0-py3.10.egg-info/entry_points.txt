@@ -1,0 +1,4 @@
+[console_scripts]
+plot_histogram = ir_sensor_node.plot_histogram:main
+sensor_data_collector = ir_sensor_node.sensor_data_collector:main
+

@@ -1,0 +1,28 @@
+[0.701s] Invoking command in '/home/minsolkim/ros2_ws/src/ir_sensor_node': PYTHONPATH=/home/minsolkim/ros2_ws/build/ir_sensor_node/prefix_override:/home/minsolkim/ros2_ws/install/ir_sensor_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ir_sensor_node build --build-base /home/minsolkim/ros2_ws/build/ir_sensor_node/build install --record /home/minsolkim/ros2_ws/build/ir_sensor_node/install.log --single-version-externally-managed install_data
+[0.979s] running egg_info
+[0.979s] writing ../../build/ir_sensor_node/ir_sensor_node.egg-info/PKG-INFO
+[0.979s] writing dependency_links to ../../build/ir_sensor_node/ir_sensor_node.egg-info/dependency_links.txt
+[0.980s] writing entry points to ../../build/ir_sensor_node/ir_sensor_node.egg-info/entry_points.txt
+[0.980s] writing requirements to ../../build/ir_sensor_node/ir_sensor_node.egg-info/requires.txt
+[0.980s] writing top-level names to ../../build/ir_sensor_node/ir_sensor_node.egg-info/top_level.txt
+[0.981s] reading manifest file '../../build/ir_sensor_node/ir_sensor_node.egg-info/SOURCES.txt'
+[0.982s] writing manifest file '../../build/ir_sensor_node/ir_sensor_node.egg-info/SOURCES.txt'
+[0.982s] running build
+[0.983s] running build_py
+[0.983s] copying ir_sensor_node/plot_histogram.py -> /home/minsolkim/ros2_ws/build/ir_sensor_node/build/lib/ir_sensor_node
+[0.983s] copying ir_sensor_node/sensor_data_collector.py -> /home/minsolkim/ros2_ws/build/ir_sensor_node/build/lib/ir_sensor_node
+[0.984s] running install
+[0.984s] running install_lib
+[0.985s] copying /home/minsolkim/ros2_ws/build/ir_sensor_node/build/lib/ir_sensor_node/plot_histogram.py -> /home/minsolkim/ros2_ws/install/ir_sensor_node/lib/python3.10/site-packages/ir_sensor_node
+[0.985s] copying /home/minsolkim/ros2_ws/build/ir_sensor_node/build/lib/ir_sensor_node/sensor_data_collector.py -> /home/minsolkim/ros2_ws/install/ir_sensor_node/lib/python3.10/site-packages/ir_sensor_node
+[0.986s] byte-compiling /home/minsolkim/ros2_ws/install/ir_sensor_node/lib/python3.10/site-packages/ir_sensor_node/plot_histogram.py to plot_histogram.cpython-310.pyc
+[0.987s] byte-compiling /home/minsolkim/ros2_ws/install/ir_sensor_node/lib/python3.10/site-packages/ir_sensor_node/sensor_data_collector.py to sensor_data_collector.cpython-310.pyc
+[0.987s] running install_data
+[0.988s] running install_egg_info
+[0.989s] removing '/home/minsolkim/ros2_ws/install/ir_sensor_node/lib/python3.10/site-packages/ir_sensor_node-0.0.0-py3.10.egg-info' (and everything under it)
+[0.990s] Copying ../../build/ir_sensor_node/ir_sensor_node.egg-info to /home/minsolkim/ros2_ws/install/ir_sensor_node/lib/python3.10/site-packages/ir_sensor_node-0.0.0-py3.10.egg-info
+[0.990s] running install_scripts
+[1.012s] Installing plot_histogram script to /home/minsolkim/ros2_ws/install/ir_sensor_node/lib/ir_sensor_node
+[1.012s] Installing sensor_data_collector script to /home/minsolkim/ros2_ws/install/ir_sensor_node/lib/ir_sensor_node
+[1.012s] writing list of installed files to '/home/minsolkim/ros2_ws/build/ir_sensor_node/install.log'
+[1.038s] Invoked command in '/home/minsolkim/ros2_ws/src/ir_sensor_node' returned '0': PYTHONPATH=/home/minsolkim/ros2_ws/build/ir_sensor_node/prefix_override:/home/minsolkim/ros2_ws/install/ir_sensor_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ir_sensor_node build --build-base /home/minsolkim/ros2_ws/build/ir_sensor_node/build install --record /home/minsolkim/ros2_ws/build/ir_sensor_node/install.log --single-version-externally-managed install_data
